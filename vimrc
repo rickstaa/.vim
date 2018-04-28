@@ -1,5 +1,5 @@
 "" My Vim configuration file
-"" http://github.com/https://github.com/rickstaa/my-vim-setup
+" http://github.com/https://github.com/rickstaa/my-vim-setup
 
 "" Vundle CODE
 set nocompatible              " be iMproved, required
@@ -91,6 +91,10 @@ highlight CursorLine guibg=#303000 ctermbg=234
 let mapleader=","
 
 " Remaped key commands
-map <leader>s :source ~/.vim/vimrc<CR>
-nnoremap <leader>w :w<cr>
-nnoremap <leader>q :wq<cr>
+map <leader>r :source ~/.vim/vimrc<CR>
+nnoremap <leader>s :w<cr>
+nnoremap <leader>w :bd<cr>
+nnoremap <leader>q :q<cr>
+
+" NerdTree key commands
+map  <C-n> :NERDTreeToggle<CR>
