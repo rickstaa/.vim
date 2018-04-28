@@ -94,7 +94,7 @@ let mapleader=","
 map <leader>r :source ~/.vim/vimrc<CR>
 nnoremap <leader>s :w<cr>
 nnoremap <leader>w :bd<cr>
-nnoremap <leader>q :q<cr>
+nnoremap <leader>q :qa!<cr>
 
 " NerdTree key commands
 map  <C-n> :NERDTreeToggle<CR>
