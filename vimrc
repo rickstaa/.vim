@@ -24,6 +24,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
 Plugin 'ctrlpvim/ctrlp.vim'
+Plugin 'nathanaelkane/vim-indent-guides'
+Plugin 'jiangmiao/auto-pairs'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -91,7 +93,7 @@ highlight CursorLine guibg=#303000 ctermbg=234
 let mapleader=","
 
 " Remaped key commands
-map <leader>r :source ~/.vim/vimrc<CR>
+nnoremap <leader>r :e!<cr>
 nnoremap <leader>s :w<cr>
 nnoremap <leader>w :bd<cr>
 nnoremap <leader>q :qa!<cr>
