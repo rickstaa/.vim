@@ -60,6 +60,7 @@ let g:syntastic_check_on_wq = 0
 
 "" Theme settings
 " Colors
+set t_Co=256
 colorscheme Tomorrow-Night-Bright
 
 " Fonts
