@@ -4,7 +4,7 @@ A setup repository I created to be able share my setup across machines while kee
 ## Installation
 Run the following code in your terminal:
 
-'''shell
+'''console
 $ cd
   $ git clone git@github.com:rickstaa/.vim.git
   $ ln -s -f .vim/.vimrc
