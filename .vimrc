@@ -95,8 +95,7 @@ let mapleader=","
 
 " Remaped key commands
 nnoremap <leader>r :e!<cr>
-nnoremap <leader>s :w<cr>
-nnoremap <leader>w :bd<cr>
+nnoremap <leader>w :w<cr>
 nnoremap <leader>q :qa!<cr>
 
 " NerdTree key commands
