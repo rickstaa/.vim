@@ -99,4 +99,4 @@ nnoremap <leader>w :w<cr>
 nnoremap <leader>q :qa!<cr>
 
 " NerdTree key commands
-map  <C-n> :NERDTreeToggle<CR>
+map <C-n> :NERDTreeToggle<CR>
