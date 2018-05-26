@@ -26,6 +26,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'jiangmiao/auto-pairs'
+Plugin 'rdnetto/YCM-Generator'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
