@@ -95,7 +95,6 @@ highlight CursorLine guibg=#303000 ctermbg=234
 let mapleader=","
 
 " Remaped key commands
-nnoremap <leader>r :e!<cr>
 nnoremap <leader>w :w<cr>
 nnoremap <leader>q :qa!<cr>
 
