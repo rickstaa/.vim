@@ -20,7 +20,8 @@ $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 $ sudo apt-get install build-essential cmake3
 $ sudo apt-get install python-dev python3-dev
-$ cd ~/.vim/bundle/YouCompleteMe ./install.py --clang-completer
+$ cd ~/.vim/bundle/YouCompleteMe 
+$ ./install.py --clang-completer
 ```
 
 ## Dependencies
