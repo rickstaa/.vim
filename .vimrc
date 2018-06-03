@@ -97,6 +97,7 @@ let mapleader=","
 " Remaped key commands
 nnoremap <leader>w :w<cr>
 nnoremap <leader>q :qa!<cr>
+inoremap jj <ESC>
 
 " NerdTree key commands
 map <C-n> :NERDTreeToggle<CR>
