@@ -14,7 +14,7 @@ $ ln -s -f .vim/.vimrc
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
-3. Run `:PluginInstall` in the vim console
+3. Run `vim +PluginInstall +qall` in the terminal.
 
 4. Unpack YouCompleteMe Libraries
 ```
