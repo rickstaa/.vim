@@ -1,4 +1,4 @@
 # This file specifies the folders git will ignore while pushing and pulling
 
 # File extensions to ignore
-
+bundle/
