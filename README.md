@@ -29,7 +29,7 @@ $ ./install.py --clang-completer
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 
 ## Authors
-* **Rick Staa** - *M. Sc. Biomechanical Design* - [rickstaa](https://github.com/rickstaa)
+* [@rickstaa](https://github.com/rickstaa)
 
 ## License
 
