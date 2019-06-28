@@ -1,5 +1,5 @@
 # My-vim-setup
-A setup repository I created to be able share my setup across machines while keeping track of any changes I made.
+A backup repository I created to be able share my vim setup across machines while keeping track of any changes I made.
 
 ## Installation
 1. Run the following code in your terminal:
