@@ -27,10 +27,3 @@ $ ./install.py --clang-completer
 ## Dependencies
 * [Vundle plugin manager](https://github.com/VundleVim/Vundle.vim)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
-
-## Authors
-* [@rickstaa](https://github.com/rickstaa)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
