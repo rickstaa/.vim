@@ -1,6 +1,7 @@
 "" My Vim configuration file
 " http://github.com/https://github.com/rickstaa/my-vim-setup
-set encoding="utf-8"
+set encoding=utf-8  " The encoding displayed.
+set fileencoding=utf-8  " The encoding written to file.
 
 " Vundle CODE
 set nocompatible              " be iMproved, required
