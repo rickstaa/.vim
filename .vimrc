@@ -1,7 +1,8 @@
 "" My Vim configuration file
 " http://github.com/https://github.com/rickstaa/my-vim-setup
+set encoding="utf-8"
 
-"" Vundle CODE
+" Vundle CODE
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
