@@ -18,7 +18,7 @@ $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 4. Unpack YouCompleteMe Libraries
 ```
-$ sudo apt-get install build-essential cmake3
+$ sudo apt-get install build-essential cmake
 $ sudo apt-get install python-dev python3-dev
 $ cd ~/.vim/bundle/YouCompleteMe 
 $ ./install.py --clang-completer
@@ -27,10 +27,3 @@ $ ./install.py --clang-completer
 ## Dependencies
 * [Vundle plugin manager](https://github.com/VundleVim/Vundle.vim)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
-
-## Authors
-* [@rickstaa](https://github.com/rickstaa)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
