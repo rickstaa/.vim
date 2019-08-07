@@ -65,7 +65,7 @@ let g:syntastic_check_on_wq = 0
 
 "" Theme settings
 " Colors
-colorscheme molokai 
+colorscheme molokai
 
 " Fonts
 set guifont=Menlo\ Regular:h18
