@@ -22,7 +22,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'itchyny/lightline.vim'
-"Plugin 'scrooloose/nerdtree'
+Plugin 'scrooloose/nerdtree'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
 Plugin 'ctrlpvim/ctrlp.vim'
@@ -31,6 +31,7 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'rdnetto/YCM-Generator'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'vim-utils/vim-husk'
+Plugin 'terryma/vim-multiple-cursors'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
