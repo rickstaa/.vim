@@ -25,5 +25,6 @@ $ ./install.py --clang-completer
 ```
 
 ## Dependencies
+* [vim](https://www.vim.org/)
 * [Vundle plugin manager](https://github.com/VundleVim/Vundle.vim)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
