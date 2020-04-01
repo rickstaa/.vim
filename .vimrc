@@ -32,6 +32,9 @@ Plugin 'rdnetto/YCM-Generator'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'vim-utils/vim-husk'
 Plugin 'terryma/vim-multiple-cursors'
+Plugin 'tpope/vim-obsession'
+Plugin 'tpope/vim-sensible'
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
