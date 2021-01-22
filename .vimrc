@@ -1,5 +1,5 @@
 "" My Vim configuration file
-" http://github.com/https://github.com/rickstaa/my-vim-setup
+" http://github.com/https://github.com/rickstaa/.vim
 set encoding=utf-8  " The encoding displayed.
 set fileencoding=utf-8  " The encoding written to file.
 
