@@ -107,4 +107,8 @@ nnoremap <leader>q :qa!<cr>
 inoremap jj <ESC>
 
 " NerdTree key commands
-map <C-n> :NERDTreeToggle<CR>
+" NerdTree key commands
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
